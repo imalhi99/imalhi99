@@ -2,6 +2,8 @@
 
 ### Computational Mathematics Graduate | Data Analyst | Machine Learning Enthusiast
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF5&center=true&vCenter=true&width=500&lines=Data+Science;Machine+Learning+Engineer)
+
 I'm passionate about transforming data into actionable insights through analytics, mathematical modeling, simulation, and machine learning.
 
 🎓 B.S. Mathematics (Computational & Applied)
